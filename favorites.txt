@@ -1,7 +1,9 @@
 pizza
 pasta
 croissant
+chicken
 
 deep red
 evil dead
 the forgotten battle
+the ring
